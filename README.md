@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can find in this repository a solution of the technical test
+
+I used ReactJS and Redux. 
+For the design, I used Material Design
+
+I hope you will enjoy this solution
+
+Thanks
+Slim
+
 ## Available Scripts
 
 In the project directory, you can run:
