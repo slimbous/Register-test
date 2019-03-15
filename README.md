@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can find in this repository a solution of technical test
+You can find in this repository a solution of the technical test
 
 I used ReactJS and Redux. 
 for the Design I used Material Design
