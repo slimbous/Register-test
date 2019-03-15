@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can find in this repository a solution of the technical test
 
 I used ReactJS and Redux. 
-for the Design I used Material Design
+For the design, I used Material Design
 
 I hope you will enjoy this solution
 
