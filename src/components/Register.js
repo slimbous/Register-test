@@ -21,9 +21,9 @@ class Register extends React.Component {
     super(props);
     this.state = {
       user: {
-        username: "Coucou?136",
-        password: "Coucou?136",
-        confirmPwd: "Coucou?136"
+        username: "Slim",
+        password: "Coucou?99",
+        confirmPwd: "Coucou?99"
       },
       message: "",
       open: false
