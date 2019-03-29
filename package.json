@@ -1,7 +1,7 @@
 {
   "name": "technical-test",
   "version": "0.1.0",
-  "homepage" : "https://slimbous.github.io/Register-test/",
+  "homepage": "https://slimbous.github.io/Register-test/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.2",
@@ -11,6 +11,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.8",
